@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SportHub</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="save_button">Save Button</string>
+    <string name="back_button">Back Button</string>
+    <string name="description">As a tech department, we’re usually pretty good at spotting tech that’s out of the ordinary. During time trials we’re used to seeing new aero innovation, and while there are certainly aero tricks used in road stages, they are harder to spot.\n\nA case in point, throughout the Volta ao Algarve, Alexander Kristoff has been wearing an old discontinued time trial helmet…</string>
+    <string name="no_data">Empty Data</string>
+    <string name="detail_name">Arsenal</string>
+    <string name="founded_in">Founded in 1999</string>
+    <string name="detail_tittle">Arsenal FC</string>
+    <string name="category">Soccer</string>
+    <string name="title_favorite">Module Title</string>
+</resources>

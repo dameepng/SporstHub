@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Category">Soccer</string>
+    <string name="Team_Name">Arsenal</string>
+    <string name="Country">England</string>
+    <string name="dot">•</string>
+    <string name="year">1892</string>
+</resources>
